@@ -1,5 +1,7 @@
 # Všetko o Gite a Githube
 ## Čo je Git?
+![Git logo](git.png)
+
 Git je distribuovaný systém na správu verzií, ktorý uchováva históriu zmen v súboroch. Každý programátor, ktorý pracuje na projekte, má svoju lokálnu kópiu **repozitára** (priečinka s kódom a metadátami), ktorú môže upravovať podľa potreby. Git sleduje zmeny v súboroch a umožňuje ich synchronizovať medzi rôznymi repozitármi pomocou príkazov *push* (odoslanie zmien do vzdialeného repozitára) a *pull* (stiahnutie zmien z vzdialeného repozitára).
 
 Git tiež podporuje vetvenie(*branching*) a zlučovanie (*merging*) kódu. **Vetvenie** je proces vytvorenia novej verzie kódu z existujúcej, ktorá sa môže líšiť v niektorých aspektoch. **Zlučovanie** je proces spojenia dvoch alebo viac verzií kódu do jednej. Tieto funkcie umožňujú programátorom experimentovať s novými funkciami alebo opravami bez ovplyvnenia hlavnej verzie kódu.
@@ -7,6 +9,8 @@ Git tiež podporuje vetvenie(*branching*) a zlučovanie (*merging*) kódu. **Vet
 Git tiež poskytuje možnosť **označiť** (*tag*) určité body v histórii kódu, napríklad keď sa dokončí nejaká fáza vývoja alebo sa vydaná nová verzia softvéru. Tieto označenia pomáhajú identifikovať a vracať sa k dôležitým stavom kódu.
 
 ## Čo je GitHub?
+![GitHub logo](github.png)
+
 [Github](https://github.com/) je webová služba, ktorá umožňuje hostovať a zdieľať repozitáre **Gitu** na internete. GitHub ponúka mnoho funkcií, ktoré zjednodušujú spoluprácu na softvérových projektoch, ako sú:
 
 - Možnosť prezerať si a **komentovať zmeny** v kóde
